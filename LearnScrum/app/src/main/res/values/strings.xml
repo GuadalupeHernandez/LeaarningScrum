@@ -1,0 +1,305 @@
+<resources>
+
+    <!--Register -->
+    <string name="username"> Nombre del Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="btm_login">Ingresar</string>
+    <string name="title_activity_login">Login</string>
+    <string name="registration_instruction">Si no tiene un nombre y contraseña. Haga clic en el botón de abajo para registrarse</string>
+    <string name="register_button">Registrate Hora</string>
+    <string name="title_activity_register">Registrate Ahora</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="is_login">Usted a iniciado session con extito</string>
+    <string name="sign_up">Registrate Ahora</string>
+    <!--LOgin -->
+
+    <string name="app_name">"SCRUM"</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="titulo_otros_cursos">Asociados con SCRUM</string>
+    <string name="texto_no_tarjetas">No tienes ninguna tarjeta asociada</string>
+    <string name="etiqueta_universidad">UTNG</string>
+    <string name="texto_cambiar_contrasena">Cambia tu contraseña</string>
+    <string name="etiqueta_comunicate">Enviame Un Correo</string>
+
+    <!--ITEMS -->
+    <string name="item_desarrollador">Desarrollador</string>
+    <string name="item_acerca">Acerca</string>
+    <string name="item_login">Login</string>
+    <string name="item_inicio">Inicio</string>
+    <string name="item_cuenta">Mi Cuenta</string>
+    <string name="item_categorias">Categorías</string>
+    <string name="item_configuracion">Configuración</string>
+    <string name="item_juego">Scrum Cards</string>
+    <string name="item_videos">Videos</string>
+    <string name="item_enciar_correo">Enviar Correo</string>
+    <string name="item_enciar_audios">Audios Tematicos</string>
+    <!--ITEMS -->
+
+    <!--TABS -->
+    <string name="tab_foro">Video Ayuda</string>
+    <string name="pestaña_pulsada">"Pestaña Pulsada: "</string>
+    <string name="titulo_tab_capitulos">CAPITULOS</string>
+    <string name="titulo_tab_Videos">VIDEOS</string>
+    <string name="titulo_tab_Material">MATERIAL</string>
+    <string name="titulo_tab_perfil">PERFIL</string>
+    <string name="titulo_tab_direcciones">DIRECCIONES</string>
+    <string name="titulo_tab_desarrollador">DESARROLLADOR</string>
+    <string name="titulo_tab_tarjetas">TARJETAS</string>
+    <!--TABS -->
+
+    <!-- ETIQUETAS -->
+    <string name="texto_envia_correo">Enviar</string>
+    <string name="etiqueta_info_usuario">usuario</string>
+    <string name="etiqueta_contrasena">contraseña</string>
+    <string name="etiqueta_info_desarrollador">Desarrollador</string>
+    <!-- ETIQUETAS -->
+
+    <!-- FOTOS -->
+    <string name="titulo_tab_foto">FOTO</string>
+    <string name="etiqueta_info_foto">Foto</string>
+    <!-- FOTOS -->
+
+    <!-- LOGIN -->
+    <string name="hello_blank_fragment">Fragmento vacio</string>
+    <string name="nombre">Ingrese el nombre de usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="agregar">Agregar Usuario</string>
+    <string name="nombre_info">Nombre</string>
+    <string name="contraseña_info">Ingrese una contraseña</string>
+    <string name="correo_info">Ingrese su correo electronico</string>
+    <string name="nuevo_usuario">Nuevo Usuario</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="emptyString" />
+    <!-- LOGIN -->
+
+    <!-- Ayuda -->
+    <string name="Ayuda">En esta pestana te brindamos ayuda Si tienes alguna duda envía un correo
+        al desarrollador. Su correo está  en el tab de acerca de. También puedes modificar las
+        preferencias en la ventana de configuración que está dentro del slide o si prefieres enviar
+        un correo electrónico presionando el botón de abajo.
+       </string>
+    <!-- Ayuda -->
+
+    <!-- TEXTOS GRANDES -->
+    <string name="list_descripcion_videos">Hola en esta sección podrás reproducir cada uno de los
+        videos que te ayudaran a comprender aún más la metodología SCRUM, te invitamos a
+        que veas los videos, Aprende y Diviértete al mismo tiempo!!</string>
+    <string name="list_descripcion_audios">Hola en esta sección podrás reproducir los audios de los temas
+        que te ayudaran a comprender mejor el tema de SCRUM, te invitamos a que los escuches!!!</string>
+    <string name="list_descripcion_material">Hola en esta sección podrás buscar aún mas información
+        así como encontrar foros, ejemplos y documentos que te ayuden a aprender aún más sobre SCRUM
+        te dejamos los siguientes links, DIVIERTETE!!</string>
+    <!-- TEXTOS GRANDES -->
+
+
+    <string name="position">posición</string>
+    <string name="itm_quiz">Quiz</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="menu_settings">Menú</string>
+    <string name="capitulos">Capítulos</string>
+
+    <string name="abrir">Abrir</string>
+    <string name="omitir">omitir</string>
+    <string name="Bienvenida">Felicidades, acabas de registrarte, presiona el botón de inicio para ingresar al curso.</string>
+    <string name="privilegios">Si quieres tener acceso total a la aplicación
+        regístrate presionando el botón que está en la parte inferior.</string>
+    <string name="Privilegios_introduccion">SCRUM es una metodología ágil de desarrollo de software continuará ... </string>
+    <string name="enviar_correo">Envía un correo al programador, puedes hacerlo desplegando la barra
+        lateral de la aplicación, selecciona la opción enviar un correo, escribe el correo y listo.</string>
+    <!-- TEXTOS GRANDES -->
+
+    <!-- ARREGLOS -->
+
+
+
+
+    <string-array name="material">
+        <item>Descargar PDF La Guía de Scrum</item>
+        <item>PDF Gestión de proyectos Scrum Manager</item>
+    </string-array>
+
+    //Capitulos
+   <string name="origen_scrum">
+        Scrum es un modelo de desarrollo ágil caracterizado por:
+         Adoptar una estrategia de desarrollo incremental, en lugar de la
+        planificación y ejecución completa del producto.
+         Basar la calidad del resultado más en el conocimiento tácito
+        de las personas en equipos autoorganizados, que en la calidad de los
+        procesos empleados.
+         Solapamiento de las diferentes fases del desarrollo, en lugar de
+        realizar una tras otra en un ciclo secuencial o de cascada.
+
+        Este modelo fue identificado y definido por Ikujiro Nonaka e Hirotaka
+        Takeuchi a principios de los 80, al analizar cómo desarrollaban
+        los nuevos productos las principales empresas de manufactura tecnológica:
+        Fuji-Xerox, Canon, Honda, Nec, Epson, Brother, 3M y Hewlett-Packard (Nonaka
+        y Takeuchi, The New New Product Development Game, 1986)
+        En su estudio, Nonaka y Takeuchi compararon la nueva forma de trabajo en equipo,
+        con el avance en formación de scrum de los jugadores de Rugby,
+        a raíz de lo cual quedó acuñado el término “scrum” para referirse a ella.
+    </string>
+
+    <string name="vision_scrum">
+
+        Scrum (n): Un marco de trabajo por el cual las personas pueden acometer problemas
+        complejos adaptativos, a la vez que entregar productos del máximo valor posible
+        productiva y creativamente. Scrum es:
+        • Ligero
+        • Fácil de entender
+        • Extremadamente difícil de llegar a dominar
+
+        Scrum es un marco de trabajo de procesos que ha sido usado para gestionar el desarrollo
+        de productos complejos desde principios de los años 90. Scrum no es un proceso o una
+        técnica para construir productos; en lugar de eso, es un marco de trabajo dentro del cual
+        se pueden emplear varias técnicas y procesos. Scrum muestra la eficacia relativa de las
+        prácticas de gestión de producto y las prácticas de desarrollo, de modo que podamos mejorar.
+        El marco de trabajo Scrum consiste en los Equipos Scrum, roles, eventos, artefactos y reglas
+        asociadas. Cada componente dentro del marco de trabajo sirve a un propósito específico y es
+        esencial para el éxito de Scrum y para su uso.
+        Las reglas de Scrum relacionan los eventos, roles y artefactos, gobernando las relaciones e
+        interacciones entre ellos. Las reglas de Scrum se describen en el presente documento.
+        Las estrategias específicas para usar el marco de trabajo Scrum son diversas y están descritas
+        en otros lugares.
+
+
+    </string>
+
+
+    <string name="teoria_scrum">
+        Scrum se basa en la teoría de control de procesos empírica o empirismo.
+        El empirismo asegura que el conocimiento procede de la experiencia y de
+        tomar decisiones basándose en lo que se conoce.
+        Scrum emplea un enfoque iterativo e incremental para optimizar la
+        predictibilidad y el control del riesgo.
+        Tres pilares soportan toda la implementación del control de procesos
+        empírico: transparencia, inspección y adaptación.
+    </string>
+
+    <string name="eventos_scrum">
+        En Scrum existen eventos predefinidos con el fin de crear regularidad y
+        minimizar la necesidad de reuniones no definidas en Scrum. Todos los
+        eventos son bloques de tiempo (time-boxes), de tal modo que todos
+        tienen una duración máxima. Una vez que comienza un Sprint, su duración
+        es fija y no puede acortarse o alargarse. Los demás eventos pueden
+        terminar siempre que se alcance el objetivo del evento, asegurando
+        que se emplee una cantidad apropiada de tiempo sin permitir desperdicio
+        en el proceso.
+        Además del propio Sprint, que es un contenedor del resto de eventos,
+        cada uno de los eventos de Scrum constituye una oportunidad formal
+        para la inspección y adaptación de algún aspecto.
+        Estos eventos están diseñados específicamente para habilitar las vitales
+        transparencia e inspección.
+        La falta de alguno de estos eventos da como resultado una reducción
+        de la transparencia y constituye una oportunidad perdida para
+        inspeccionar y adaptarse.
+        El Sprint
+        El corazón de Scrum es el Sprint, es un bloque de tiempo (time-box)
+        de un mes o menos durante el cual se crea un incremento de producto
+        “Terminado”, utilizable y potencialmente desplegable.
+        Es más conveniente si la duración de los Sprints es consistente a lo
+        largo del esfuerzo de desarrollo.
+        Cada nuevo Sprint comienza inmediatamente después de la finalización
+        del Sprint previo.
+        Reunión de Planificación de Sprint (Sprint Planning Meeting)
+        El trabajo a realizar durante el Sprint se planifica en la Reunión de
+        Planificación de Sprint.
+        Este plan se crea mediante el trabajo colaborativo del Equipo Scrum completo.
+        La Reunión de Planificación de Sprint tiene un máximo de duración de ocho horas
+        para un Sprint de un mes.
+        Para Sprints más cortos, el evento es usualmente más corto.
+        El Scrum Master se asegura de que el evento se lleve a cabo y que los asistentes
+        entiendan su propósito.
+        El Scrum Master enseña al Equipo Scrum a mantenerse dentro del bloque de tiempo.
+        Objetivo del Sprint (Sprint Goal)
+        El Objetivo del Sprint es una meta establecida para el Sprint que puede ser alcanzada
+        mediante la implementación de la Lista de Producto. Proporciona una guía al Equipo de
+        Desarrollo acerca de por qué está construyendo el incremento. Es creado durante la reunión
+        de Planificación del Sprint. El objetivo del Sprint ofrece al equipo de desarrollo cierta
+        flexibilidad con respecto a la funcionalidad implementada en el Sprint. Los elementos de la
+        Lista del Producto seleccionados ofrecen una función coherente, que puede ser el objetivo
+        del Sprint.
+        El objetivo del Sprint puede representar otro nexo de unión que haga que el Equipo de
+        Desarrollo trabaje en conjunto y no en iniciativas separadas.
+        Scrum Diario (Daily Scrum)
+        El Scrum Diario es una reunión con un bloque de tiempo de 15 minutos para que el Equipo de
+        Desarrollo sincronice sus actividades y cree un plan para las siguientes 24 horas. Esto se
+        lleva a cabo inspeccionando el trabajo avanzado desde el último Scrum Diario y haciendo una
+        proyección acerca del trabajo que podría completarse antes del siguiente.
+        El Scrum Diario se realiza a la misma hora y en el mismo lugar todos los días para reducir
+        la complejidad.
+        Revisión de Sprint (Sprint Review)
+        Al final del Sprint se lleva a cabo una Revisión de Sprint para inspeccionar el Incremento y
+        adaptar la Lista de Producto si fuese necesario. Durante la Revisión de Sprint, el Equipo
+        Scrum y los interesados colaboran acerca de lo que se hizo durante el Sprint. Basándose en
+        esto, y en cualquier cambio a la Lista de Producto durante el Sprint, los asistentes colaboran
+        para determinar las siguientes cosas que podrían hacerse para optimizar el valor.
+        Retrospectiva de Sprint (Sprint Retrospective)
+        La Retrospectiva de Sprint es una oportunidad para el Equipo Scrum de inspeccionarse a sí
+        mismo y crear un plan de mejoras que sean abordadas durante el siguiente Sprint.
+
+    </string>
+
+    <string name="gestion_evolucion">
+        Scrum maneja de forma empírica la evolución del proyecto con las siguientes tácticas:
+        Revisión de las Iteraciones
+        Al finalizar cada sprint se revisa funcionalmente el resultado, con todos los implicados en
+        el proyecto. Es por tanto la duración del sprint, el período de tiempo máximo para descubrir
+        planteamientos erróneos, mejorables o malinterpretaciones en las funcionalidades del producto.
+        Desarrollo incremental
+        No se trabaja con diseños o abstracciones durante toda la construcción del producto.
+        El desarrollo incremental ofrece al final de cada iteración una parte de producto operativa,
+        que se puede usar, inspeccionar y evaluar.
+        Scrum resulta adecuado en proyectos con requisitos inciertos y, o inestables.
+    </string>
+
+
+    <string name="btn_jugar">Jugar</string>
+    <string name="btn_acerca">Acerca De</string>
+    <string name="graphic">Grafica de Avances</string>
+    <string name="graphic_dos">Grafica de Avances por Tema</string>
+    <string name="certificate">Mandar Certificado</string>
+    <string name="mensaje">Large Text</string>
+    <string name="letter">Letra</string>
+    <string name="intro">Intro</string>
+    <string name="next_quiz">Siguiente Quiz</string>
+    <string name="mensaje_result">Large Text</string>
+    <string name="begin">Empezar</string>
+    <string name="points">Puntuaciones</string>
+    <string name="out">Salir</string>
+    <string name="help">Ayuda</string>
+    <string name="subtitle">Diviertete y Aprende</string>
+    <string name="email_to">De :</string>
+    <string name="email_subjetc">Tema :</string>
+    <string name="email_message"> Mensaje :</string>
+    <string name="email_send">Enviar</string>
+    <string name="back_home">Regresar a inicio</string>
+    <string name="title_developer">Desarrollador Android</string>
+    <string name="name_developer">Maria Guadalupe Hernandez Tovar</string>
+    <string name="email_developer">lupita.hernandeztovar@gmail.com</string>
+    <string name="name_university">Casa de Estudios</string>
+    <string name="utng_name">Universidad Tecnológica del Norte de Guanajuato</string>
+    <string name="title_topic">Asignatura</string>
+    <string name="topic_name">Desarrollo de Aplicaciones III</string>
+    <string name="title_master">Catedratico</string>
+    <string name="name_master">Ing. Anastacio Rodriguez</string>
+    <string name="title_images">Large Text</string>
+    <string name="subtitle_images">Medium Text</string>
+    <string name="register">Registrar</string>
+    <string name="login">Login</string>
+    <string name="title_bd">Base de datos remota</string>
+    <string name="name_user">Nombre Usuario</string>
+    <string name="password_login">Contraseña</string>
+    <string name="go_home">Ir a inicio</string>
+    <string name="reg">Register</string>
+    <string name="welcome_reg">Bienvenido, Registrate.</string>
+    <string name="pass_reg">Contraseña</string>
+    <string name="name_user_reg">Nombre usuario</string>
+    <string name="welcome_user">BIENVENIDO</string>
+    <string name="graphics_topic">Avance y calificación por tema</string>
+    <string name="graphic_point">Grafica por tema</string>
+
+</resources>

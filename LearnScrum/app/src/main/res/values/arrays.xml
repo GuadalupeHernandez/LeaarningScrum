@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="capitulo">
+        <item>SCRUM</item>
+    </string-array>
+
+    <string-array name="videos">
+        <item>Origen de SCRUM</item>
+        <item>Vision General de SCRUM</item>
+        <item>Eventos en SCRUM</item>
+        <item>Gestion de la evolucion</item>
+        <!--  5 items -->
+    </string-array>
+
+    <string-array name="audios">
+        <item>Audio SCRUM 1</item>
+        <item>Audio SCRUM 2</item>
+        <item>Audio SCRUM 3</item>
+    </string-array>
+
+
+
+</resources>

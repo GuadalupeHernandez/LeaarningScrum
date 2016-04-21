@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.herprogramacion.scrum">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_scrum_dos"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.RicoPaRico">
+        <activity
+            android:name="com.herprogramacion.scrum.ui.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ConNavigationDrawer">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.herprogramacion.scrum.ui.ActividadConfiguracion"
+            android:label="@string/titulo_actividad_configuracion"
+            android:parentActivityName="com.herprogramacion.scrum.ui.ActividadPrincipal">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.herprogramacion.scrum.ui.ActividadPrincipal" />
+        </activity>
+        <!-- Actividades del paquete ui -->
+        <activity android:name="com.herprogramacion.scrum.ui.ActividadPrincipal"></activity>
+        <activity android:name="com.herprogramacion.scrum.ui.AyudaActivity" />
+        <activity android:name="com.herprogramacion.scrum.ui.ActividadVideo"></activity>
+        <activity android:name="com.herprogramacion.scrum.login.Login"></activity>
+        <activity android:name="com.herprogramacion.scrum.ui.PrivilegiosActivity"></activity>
+        <activity android:name="com.herprogramacion.scrum.ui.CapitulosActivity"></activity>
+        <activity android:name="com.herprogramacion.scrum.ui.TabsActivity"></activity>
+        <activity android:name="com.herprogramacion.scrum.quiz.LoginInterno"></activity>
+        <activity android:name="com.herprogramacion.scrum.quiz.FormularioInterno"></activity>
+
+        <!-- Actividades del paquete ui -->
+
+        <!-- Actividades del paquete login -->
+        <activity android:name="com.herprogramacion.scrum.login.Register"></activity>
+        <activity android:name="com.herprogramacion.scrum.login.ReadComments"></activity>
+
+        <!-- Actividades del paquete login -->
+
+        <!-- Actividades del paquete quiz -->
+        <activity android:name="com.herprogramacion.scrum.quiz.PreguntaActivity"></activity>
+        <activity android:name="com.herprogramacion.scrum.quiz.ResultadoActivity"></activity>
+        <!-- Actividades del paquete quiz -->
+
+        <!-- Actividades del paquete correo -->
+        <activity android:name="com.herprogramacion.scrum.correo.EnviarCorreoActivity"></activity>
+        <!-- Actividades del paquete correo -->
+
+        <activity android:name="com.herprogramacion.scrum.ui.ActividadAudio"></activity>
+        <activity android:name="com.herprogramacion.scrum.quiz.Grafica"></activity>
+        <activity android:name=".grafica.GraficoActivityDos"></activity>
+
+        <!-- Actividades del paquete juego -->
+        <activity android:name="com.herprogramacion.scrum.scrumCards.CardSelectorActivity"></activity>
+        <activity android:name="com.herprogramacion.scrum.scrumCards.PreferencesActivity"></activity>
+        <activity android:name="com.herprogramacion.scrum.scrumCards.CardShowActivity"></activity>
+        <activity android:name="com.herprogramacion.scrum.scrumCards.AboutActivity"></activity>
+        <!-- Actividades del paquete juego -->
+
+
+
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+    </application>
+
+</manifest>
